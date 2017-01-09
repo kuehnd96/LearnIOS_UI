@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToStoryboards", "IntroductionToStoryboards\IntroductionToStoryboards.csproj", "{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Release|iPhone.Build.0 = Release|iPhone
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{37E1F30A-3D2C-481C-90DF-615B44A9ABAB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
