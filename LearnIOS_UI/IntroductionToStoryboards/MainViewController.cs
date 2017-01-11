@@ -33,10 +33,10 @@ namespace IntroductionToStoryboards
             // Perform any additional setup after loading the view
 
             //When we push the button, we will push the pinkViewController onto our current Navigation Stack
-            PinkButton.TouchUpInside += (o, e) =>
-            {
-                this.NavigationController.PushViewController(_pinkViewController, true);
-            };
+            //PinkButton.TouchUpInside += (o, e) =>
+            //{
+            //    this.NavigationController.PushViewController(_pinkViewController, true);
+            //};
         }
 
         public override bool ShouldPerformSegue(string segueIdentifier, NSObject sender)
