@@ -15,10 +15,28 @@ namespace IntroductionToStoryboards
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UILabel ErrorLabel { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField PasswordTextField { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton PinkButton { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
+            if (ErrorLabel != null) {
+                ErrorLabel.Dispose ();
+                ErrorLabel = null;
+            }
+
+            if (PasswordTextField != null) {
+                PasswordTextField.Dispose ();
+                PasswordTextField = null;
+            }
+
             if (PinkButton != null) {
                 PinkButton.Dispose ();
                 PinkButton = null;

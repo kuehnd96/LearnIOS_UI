@@ -38,5 +38,24 @@ namespace IntroductionToStoryboards
                 this.NavigationController.PushViewController(_pinkViewController, true);
             };
         }
+
+        public override bool ShouldPerformSegue(string segueIdentifier, NSObject sender)
+        {
+            if (segueIdentifier == "SegueToPink")
+            {
+                if (PasswordTextField.Text.Trim() == "sweetpea")
+                {
+                    PasswordTextField.ResignFirstResponder();
+                    return true;
+                }
+                else
+                {
+                    ErrorLabel.Hidden = false;
+                    return false;
+                }
+            }
+
+            return base.ShouldPerformSegue(segueIdentifier, sender);
+        }
     }
 }
