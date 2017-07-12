@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablesAndCells", "TablesAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablesByStoryboards", "TablesByStoryboards\TablesByStoryboards.csproj", "{B43EAB78-F7E4-425F-981A-B2A613F15390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbedApplication", "..\TabbedApplication\TabbedApplication\TabbedApplication.csproj", "{F5098BDB-3E94-4346-A468-C6EB220B5EFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|iPhone = Ad-Hoc|iPhone
@@ -69,6 +71,22 @@ Global
 		{B43EAB78-F7E4-425F-981A-B2A613F15390}.Release|iPhone.Build.0 = Release|iPhone
 		{B43EAB78-F7E4-425F-981A-B2A613F15390}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{B43EAB78-F7E4-425F-981A-B2A613F15390}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Ad-Hoc|iPhone.ActiveCfg = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Ad-Hoc|iPhone.Build.0 = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Ad-Hoc|iPhoneSimulator.Build.0 = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.AppStore|iPhone.ActiveCfg = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.AppStore|iPhone.Build.0 = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.AppStore|iPhoneSimulator.ActiveCfg = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.AppStore|iPhoneSimulator.Build.0 = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Release|iPhone.Build.0 = Release|iPhone
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F5098BDB-3E94-4346-A468-C6EB220B5EFD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
